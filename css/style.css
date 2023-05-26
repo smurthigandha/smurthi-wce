@@ -67,6 +67,10 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+
+.phone{
+  display: block;
+}
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
