@@ -1,0 +1,22 @@
+.home-heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+  }
+  
+  .home-paragraph {
+    font-size: 18px;
+    text-align: center;
+    color: #666;
+  }
+  
+  .home-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .home-link:hover {
+    text-decoration: underline;
+  }
+  
